@@ -49,6 +49,7 @@ h1 {
   /* border-right: 3px solid #0f4464; */
   overflow: hidden;
   white-space: nowrap;
+  width: 800px;
   animation: text-animation 10s infinite;
 }
 
@@ -81,6 +82,7 @@ h1 {
 .container {
   width: 80vw;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 /* navbar  transition */
